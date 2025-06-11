@@ -2,6 +2,7 @@
 
 Este projeto é um aplicativo interativo construído com **Streamlit** para detectar fraudes em contas bancárias com base em dados históricos. Ele utiliza técnicas de balanceamento de dados (SMOTEENN) e o algoritmo **XGBoost** para classificar registros como fraudulentos ou não.
 
+Link de teste para o APP: https://mvvhaalpom5o9ogq5tivf3.streamlit.app/
 ---
 
 ## 🚀 Funcionalidades
@@ -30,11 +31,3 @@ Este projeto é um aplicativo interativo construído com **Streamlit** para dete
 - Matplotlib
 
 ---
-
-## 📦 Instalação
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
